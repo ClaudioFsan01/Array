@@ -36,3 +36,5 @@ const produtos = [{nome: 'NotBook', preco: 4000, fragil: true},
                    //let Arrayfragil = produtos.filter(verifFragil)
 
                     console.log(newArray)
+
+                   
